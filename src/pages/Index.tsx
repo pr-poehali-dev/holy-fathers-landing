@@ -4,7 +4,7 @@ import Icon from "@/components/ui/icon";
 
 export default function Index() {
   const handleTelegramClick = () => {
-    window.open("https://t.me/+QgiLIa1gFRY4Y2Iy", "_blank");
+    window.open("https://t.me/+UPZFwvxIsbA0ZTcy", "_blank");
   };
 
   return (
