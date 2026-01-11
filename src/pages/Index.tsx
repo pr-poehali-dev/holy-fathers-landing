@@ -15,7 +15,7 @@ export default function Index() {
             <div className="text-6xl mb-4">☦️</div>
           </div>
           <h1 className="font-serif text-5xl md:text-6xl font-bold mb-6 text-foreground">
-            Путь к Духовному Свету
+            Устреми ввысь своё сердце!
           </h1>
           <p className="text-xl text-muted-foreground mb-8 leading-relaxed">
             Приглашаем вас в путешествие через мудрость святых отцов и глубины православного учения
